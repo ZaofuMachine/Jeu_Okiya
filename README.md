@@ -1,6 +1,6 @@
 # LE JEU DE SOCIÉTÉ OKIYA         
 
-*author*  : -
+*author*  : @ZaofuMachine
 
 *date*    : 09/07/2020
 
